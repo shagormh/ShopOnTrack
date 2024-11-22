@@ -1,0 +1,6 @@
+.loading {
+   height: 100vh;
+   z-index: 1000;
+    display: grid;
+    place-items: center;
+}
